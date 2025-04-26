@@ -1,0 +1,11 @@
+
+
+what do i need for the board and logic
+
+
+for each attempt i need a row of so many squares as the word length
+each of these squares need an id or a key and a letter thats put in by the user 
+
+i need to set it up in a way where i can check the letter against the solution
+
+so firstly i need to generate the rows 
